@@ -26,7 +26,7 @@
     "react-scripts": "3.0.1",
     "react-select": "^2.4.3",
     "react-split-pane": "^0.1.87",
-    "three": "^0.106.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "start": "react-scripts start",
